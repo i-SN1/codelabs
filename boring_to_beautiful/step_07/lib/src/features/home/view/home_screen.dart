@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
             child: Scaffold(
               appBar: AppBar(
                 centerTitle: false,
-                title: const Text('Good i-NovDay1'),
+                title: const Text('Good i-NovDay1.1'),
                 actions: const [BrightnessToggle()],
                 bottom: const TabBar(
                   isScrollable: true,
