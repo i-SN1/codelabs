@@ -87,7 +87,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       children: [
                         Expanded(
                           child: Text(
-                            'Good i-NovDay2',
+                            'Good i-NovDay2.1',
                             style: context.displaySmall,
                           ),
                         ),
